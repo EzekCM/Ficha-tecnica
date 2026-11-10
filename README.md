@@ -2,7 +2,7 @@
 
 App web (PWA) para confeccionar fichas técnicas de cocina desde el móvil y guardarlas en PDF con el formato de la plantilla.
 
-**Abrir la app:** https://ezekcm.github.io/ficha-tecnica/
+**Abrir la app:** https://ezekcm.github.io/Ficha-tecnica/
 
 ## Instalar en el móvil
 - **Android (Chrome):** abre el enlace → menú ⋮ → *Añadir a pantalla de inicio* / *Instalar app*.
